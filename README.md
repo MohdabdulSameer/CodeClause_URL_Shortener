@@ -1,4 +1,4 @@
-﻿# Link_Shortener
+﻿# URL_Shortener
 
 # DevProjects - Link shortener website
 
@@ -10,7 +10,7 @@ Built with Only Html Css And JavaScript
 
 ## Screenshots and demo
 link to your live demo
-https://asadmoinuddin152.github.io/Link_Shortener/
+https://github.com/MohdabdulSameer/CodeClause_URL_Shortener
 
 
 This is my own first Project WithOut the Help of any Youtube Video 
